@@ -15,7 +15,7 @@ public class SauGui extends javax.swing.JFrame {
     /**
      * Creates new form SauFrame
      */
-    //hei
+    //hei nigger
     public SauGui() {
         initComponents();
     }
